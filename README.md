@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/apolantipole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apolantipole" height="30" width="40" /></a>
 <a href="https://instagram.com/_ant1po1e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ant1po1e" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ant1po1e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ant1po1e" height="30" width="40" /></a>
+<a href="https://youtube.com/@ant1po1e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ant1po1e" height="30" width="40" /></a>
 </p>
 </details>
 
