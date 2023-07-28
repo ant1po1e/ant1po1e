@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Apriansyah Yudha Pratama</h1>
-<h3 align="center">A passionate Game Developer and Frontend Developer from SMK Muhammadiyah 1 Sukoharjo</h3>
+<h3 align="center">A passionate Game Developer and Full Stack Developer from SMK Muhammadiyah 1 Sukoharjo</h3>
 
-- 🔭 I’m currently working on [Eternal Horizon](https://github.com/ant1po1e/Eternal-Horizons) & [Laravel Relationship API](belajar-laravel.test)
+🔭 I’m currently working on [Eternal Horizon](https://github.com/ant1po1e/Eternal-Horizons) & [Laravel Relationship API](belajar-laravel.test)
 
-- 🌱 I’m currently learning **Laravel**, **Tailwind** & **GoLang**
+🌱 I’m currently learning **Laravel**, **Tailwind** & **GoLang**
 
 <details>
 <summary><-> <i>Connect with Me</i></summary>
