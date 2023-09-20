@@ -9,15 +9,23 @@ Hello there, My name is Apriansyah Yudha Pratama, you can call me Yudha. A Web P
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ant1po1e?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-    add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ant1po1e?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ant1po1e?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      
-  <br>
-    <a href="https://twitter.com/apolantipole" target="blank">
-      <img alt="Twitter" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=ffffff" alt="apolantipole" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/_ant1po1e" target="blank">
-      <img alt="Instagram" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=ffffff" alt="_ant1po1e" height="30" width="40" />
-    </a>
    </p>
+
+---
+
+### Socials
+
+<p align="left">
+   <a href="https://www.linkedin.com/in/yudha-pratama-805795265" target="blank">
+      <img alt="Linkedin" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=ffffff" width="40" />
+   </a>
+   <a href="https://instagram.com/_ant1po1e" target="blank">
+      <img alt="Instagram" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=ffffff" width="40" />
+   </a>
+   <a href="https://twitter.com/apolantipole" target="blank">
+      <img alt="Twitter" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=ffffff" width="40" />
+   </a>
+</p>
 
 ---
 
