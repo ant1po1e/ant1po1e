@@ -1,55 +1,47 @@
-<h1 align="center">Hello there 👋, I'm Apriansyah Yudha Pratama</h1>
-<h3 align="center">Junior Game Developer and Full Stack Developer from SMK Muhammadiyah 1 Sukoharjo</h3>
+# Antipole
 
-🔭 I’m currently working on [Eternal Horizon](https://github.com/ant1po1e/Eternal-Horizons), [Laravel Relationship API](https://github.com/dapras2000/Belon-BE) & [Education Game](https://github.com/Mutuharjo-Game-Development/EducationGame)
+**`Junior Fullstack Developer & Game Developer`**
 
-🌱 I’m currently learning **C#** & **GoLang**
+Hello there, My name is Apriansyah Yudha Pratama, you can call me Yudha. A Web Programming & Game Developing Student at SMK Muhammadiyah 1 Sukoharjo. I love exploring new stuff especially in technologies.
 
-<details>
-<summary><-> <i>Connect with Me</i></summary>
-<br>
-  <p align="left">
+   <p align="left">
+      <a href="https://github.com/ant1po1e?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ant1po1e?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-    add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ant1po1e?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ant1po1e?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      
+  <br>
     <a href="https://twitter.com/apolantipole" target="blank">
-      <img align="center" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=ffffff" alt="apolantipole" height="30" width="40" />
+      <img alt="Twitter" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=ffffff" alt="apolantipole" height="30" width="40" />
     </a>
     <a href="https://instagram.com/_ant1po1e" target="blank">
-      <img align="center" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=ffffff" alt="_ant1po1e" height="30" width="40" />
+      <img alt="Instagram" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=ffffff" alt="_ant1po1e" height="30" width="40" />
     </a>
-    <a href="https://youtube.com/@ant1po1e" target="blank">
-      <img align="center" src="https://icongr.am/fontawesome/youtube-play.svg?size=128&color=ffffff" alt="ant1po1e" height="30" width="40" /> 
-    </a>
-  </p>
-</details>
+   </p>
 
-<details>
-<summary><-> <i>Language and Tools</i></summary>
-<br>
-  <p align="left">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/>      
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40"/>       
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/> 
-  </p>
-</details>
+---
 
-<details>
-<summary><-> <i>GithHub Stats</i></summary>
-<br>
-  <p>
-    <img align="centert" src="https://github-readme-stats.vercel.app/api/top-langs?username=ant1po1e&show_icons=true&locale=en&layout=compact" alt="ant1po1e" />
-  </p>
+### Languages and Tools
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ant1po1e&show_icons=true&locale=en" alt="ant1po1e" />
-</p>
-</details>
+<img align="left" alt="HTML" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="C#" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+<img align="left" alt="C#" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+<img align="left" alt="PHP" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img align="left" alt="Laravel" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+<img align="left" alt="Bootstrap" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<img align="left" alt="TailwindCSS" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Git" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+<img align="left" alt="Linux" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Bash" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+<img align="left" alt="Bash" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<br />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ant1po1e&label=Profile%20views&color=0e75b6&style=flat" alt="ant1po1e" /> </p>
+---
+
+### 📊 Stats
+
+![Ant1po1e's GitHub stats](https://github-readme-stats.vercel.app/api?username=ant1po1e&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ant1po1e&layout=compact&theme=transparent)
