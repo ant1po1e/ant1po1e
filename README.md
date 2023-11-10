@@ -31,20 +31,7 @@ Hello there, My name is Apriansyah Yudha Pratama, you can call me Yudha. A Web P
 
 ### 💻 Languages and Tools
 
-<img align="left" alt="HTML" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="C#" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-<img align="left" alt="C#" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-<img align="left" alt="PHP" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img align="left" alt="Laravel" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-<img align="left" alt="TailwindCSS" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-<img align="left" alt="Linux" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<img align="left" alt="HTML" src="https://cdn.discordapp.com/attachments/841680616591196160/1172372007560679424/asd_1.png?ex=65601384&is=654d9e84&hm=068bfa85a79657f3431cc591f53b0d1191507ddc39a1ae88328ede0c6c316d53&" />
 <br />
 
 ---
