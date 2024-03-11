@@ -31,7 +31,7 @@ Hello there, My name is Apriansyah Yudha Pratama, you can call me Yudha. A Web P
 
 ### 💻 Languages and Tools
 
-<img align="left" alt="HTML" src="https://cdn.discordapp.com/attachments/841680616591196160/1172372007560679424/asd_1.png?ex=65601384&is=654d9e84&hm=068bfa85a79657f3431cc591f53b0d1191507ddc39a1ae88328ede0c6c316d53&" />
+<img align="left" alt="HTML" src="https://media.discordapp.net/attachments/841680616591196160/1172372007560679424/asd_1.png?ex=65fcf604&is=65ea8104&hm=698bbeda1c821f974d6951a7da48d3bd7629e606f9daeebb1b620d05dea6a09a&=&format=webp&quality=lossless&width=1440&height=129" />
 <br />
 
 ---
