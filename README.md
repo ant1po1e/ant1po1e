@@ -1,6 +1,6 @@
 # <a href=https://ant1po1e.vercel.app>Antipole</a>
 
-**`Junior Backend Developer & Game Engineer`**
+**`Junior Desktop Developer & Game Developer`**
 
 Hello there, My name is Apriansyah Yudha Pratama, you can call me Yudha. A Web Programming & Game Developing Student at SMK Muhammadiyah 1 Sukoharjo. I love exploring new stuff especially in technologies.
 
