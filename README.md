@@ -2,7 +2,7 @@
 
 **`Junior Desktop Developer & Game Developer`**
 
-Hello there, My name is Apriansyah Yudha Pratama, you can call me Yudha. A Web Programming & Game Developing Student at SMK Muhammadiyah 1 Sukoharjo. I love exploring new stuff especially in technologies.
+Hello there, My name is Apriansyah Yudha Pratama, you can call me Yudha. A desktop and game developer student at SMK Muhammadiyah 1 Sukoharjo. I love exploring new stuff especially in technologies.
 
    <p align="left">
       <a href="https://github.com/ant1po1e?tab=followers">
