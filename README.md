@@ -26,7 +26,7 @@ Hello there, My name is Apriansyah Yudha Pratama, you can call me Yudha. A deskt
    </a>
    <a href="https://twitter.com/apolantipole" target="blank">
       <img alt="Twitter" src="https://icongr.am/fontawesome/twitter.svg?size=64&color=ffffff" width="40" />
-   </a>v
+   </a>
 </p>
 
 ---
