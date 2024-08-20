@@ -4,6 +4,8 @@
 
 Hello there, My name is Apriansyah Yudha Pratama, you can call me Yudha. A desktop and game developer student at SMK Muhammadiyah 1 Sukoharjo. I love exploring new stuff especially in technologies.
 
+<a href="https://ant1po1e.itch.io">Itch.io</a>
+
    <p align="left">
       <a href="https://github.com/ant1po1e?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ant1po1e?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-    add&label=Follow&logoColor=white"/></a>
@@ -24,7 +26,7 @@ Hello there, My name is Apriansyah Yudha Pratama, you can call me Yudha. A deskt
    </a>
    <a href="https://twitter.com/apolantipole" target="blank">
       <img alt="Twitter" src="https://icongr.am/fontawesome/twitter.svg?size=64&color=ffffff" width="40" />
-   </a>
+   </a>v
 </p>
 
 ---
