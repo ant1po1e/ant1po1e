@@ -4,7 +4,9 @@
 
 Hello there, My name is Apriansyah Yudha Pratama, you can call me Yudha. A desktop and game developer student at SMK Muhammadiyah 1 Sukoharjo. I love exploring new stuff especially in technologies.
 
-<a href="https://ant1po1e.itch.io">Itch.io</a>
+**<a href=https://ant1po1e.itch.io>Itch.io</a>**
+
+<br />
 
    <p align="left">
       <a href="https://github.com/ant1po1e?tab=followers">
@@ -17,23 +19,16 @@ Hello there, My name is Apriansyah Yudha Pratama, you can call me Yudha. A deskt
 
 ### 📱 Socials
 
-<p align="left">
-   <a href="https://www.linkedin.com/in/yudha-pratama-805795265" target="blank">
-      <img alt="Linkedin" src="https://icongr.am/fontawesome/linkedin.svg?size=64&color=ffffff" width="40" />
-   </a>
-   <a href="https://instagram.com/_ant1po1e" target="blank">
-      <img alt="Instagram" src="https://icongr.am/fontawesome/instagram.svg?size=64&color=ffffff" width="40" />
-   </a>
-   <a href="https://twitter.com/apolantipole" target="blank">
-      <img alt="Twitter" src="https://icongr.am/fontawesome/twitter.svg?size=64&color=ffffff" width="40" />
-   </a>
-</p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/apriansyah-yudha-pratama-805795265/) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/_ant1po1e) 
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/apolantipole) 
+
 
 ---
 
 ### 💻 Languages and Tools
 
-<img align="left" alt="Languages and Tools" src="https://imgdb.net/storage/uploads/3398da92c6288cec052dc1ecf7897146f412ffa99dff75d09697fe2a60742eb4.png" />
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,cs,dotnet,bash,linux,unity,git,vscode)](https://skillicons.dev) 
 <br />
 
 ---
