@@ -10,7 +10,7 @@ Hello there, My name is Apriansyah Yudha Pratama, you can call me Yudha. A deskt
 
    <p align="left">
       <a href="https://github.com/ant1po1e?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ant1po1e?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-    add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ant1po1e?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ant1po1e?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ant1po1e?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
