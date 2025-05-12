@@ -2,7 +2,7 @@
 
 **`Junior Desktop Developer & Game Developer`**
 
-Hello there, My name is Apriansyah Yudha Pratama, you can call me Yudha. A desktop and game developer student at SMK Muhammadiyah 1 Sukoharjo. I love exploring new stuff especially in technologies.
+Hello! I'm Antipole, a web developer and game developer. I create websites and games that are not only functional but also visually appealing. My passion for coding and design drives me to constantly learn and improve my skills, delivering creative and efficient solutions for every project I undertake.
 
 **<a href=https://ant1po1e.itch.io>Itch.io</a>**
 
@@ -28,7 +28,7 @@ Hello there, My name is Apriansyah Yudha Pratama, you can call me Yudha. A deskt
 
 ### 💻 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,cs,dotnet,bash,linux,unity,unreal,git,vscode)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,cs,dotnet,bash,linux,unity,unreal,git,visualstudio,vscode,figma&perline=8)](https://skillicons.dev) 
 <br />
 
 ---
