@@ -28,7 +28,7 @@ Hello! I'm Antipole, a web developer and game developer. I create websites and g
 
 ### 💻 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,cs,dotnet,bash,linux,unity,unreal,git,visualstudio,vscode,figma&perline=8)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,jquery,bootstrap,tailwind,python,php,laravel,bash,linux,unity,unreal,git,visualstudio,vscode,figma&perline=10)](https://skillicons.dev) 
 <br />
 
 ---
