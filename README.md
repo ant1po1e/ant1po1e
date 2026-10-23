@@ -1,6 +1,8 @@
 # 💫 About Me:
-Junior Desktop Developer & Game Developer<br><br>
-Hello! I'm Antipole, a web developer and game developer. I create websites and games that are not only functional but also visually appealing. My passion for coding and design drives me to constantly learn and improve my skills, delivering creative and efficient solutions for every project I undertake.
+Front-End & Desktop Developer<br><br>
+Hello! I'm Antipole, a web developer and desktop developer. I create websites and games that are not only functional but also visually appealing. My passion for coding and design drives me to constantly learn and improve my skills, delivering creative and efficient solutions for every project I undertake.
+
+Currently working as Front-end Engineer at Estreya
 
 
 ## 🌐 Socials:
